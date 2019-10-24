@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">practical2</string>
+    <string name="profile_pic">profile_picture</string>
+    <string name ="profile_desc">
+        Address : 123, Jalan xyz, Taman Taktau ,12345 Kampung
+        \n \n Education :
+        \n\n \t Mentakab Chuan Hua 1
+        \n\n \t Mentakab Hwa Lian
+        \n\n\t University Tunku Abdul Rahman
+        \n\n\t Tunku Abdul Rahman University College
+        \n\n\t nothing
+        \n\n\t nothing
+        \n\n\t nothing1
+        \n\n\t nothing2
+        \n\n\t nothing3
+        \n\n\t nothing4
+        \n\n\t nothing5
+        \n\n\t nothing6
+        \n\n\t nothing7
+        \n\n\t nothing8
+        \n\n\t nothing9
+
+    </string>
+</resources>

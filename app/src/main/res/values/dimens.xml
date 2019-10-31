@@ -3,4 +3,5 @@
     <dimen name="layout_padding">8dp</dimen>
     <dimen name="font_size">18sp</dimen>
     <dimen name="xlFont_size">24sp</dimen>
+    <dimen name="layout_margin">16dp</dimen>
 </resources>
